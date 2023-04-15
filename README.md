@@ -1,4 +1,3 @@
-<h1 align="center">Olá, Me chamo Gustavo Henrique!</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ghenrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ghenrk" height="30" width="40" /></a>
